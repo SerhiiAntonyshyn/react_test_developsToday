@@ -1,5 +1,5 @@
 import React from 'react';
-import { Post } from '../../pages/helpers/interfaces';
+import Post from '../../helpers/Post';
 import { CommentCreate } from '../CommentCreate/CommentCreate';
 import styled from 'styled-components';
 

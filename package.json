@@ -2,6 +2,7 @@
   "name": "testdevelopstoday",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://serhiiantonyshyn.github.io/react_test_developsToday/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
